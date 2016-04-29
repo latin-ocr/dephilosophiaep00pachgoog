@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dephilosophiaep00pachgoog_0006.png"; bbox 0 0 2734 4554; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 157 1569 1063 1686">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 157 1569 1063 1686">
+     <span class='ocr_line' id='line_1_1' title="bbox 157 1569 1063 1686; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 157 1571 304 1685; x_wconf 62' lang='lat' dir='ltr'>Prot:</span> <span class='ocrx_word' id='word_1_2' title='bbox 333 1571 411 1684; x_wconf 77' lang='lat' dir='ltr'><strong>Dr.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 449 1569 731 1686; x_wconf 74' lang='lat' dir='ltr'>friderico</span> <span class='ocrx_word' id='word_1_4' title='bbox 772 1569 1063 1684; x_wconf 71' lang='lat' dir='ltr'><strong>Nietzsche</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 484 2817 746 2873">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 484 2817 746 2873">
+     <span class='ocr_line' id='line_1_2' title="bbox 484 2817 746 2873; baseline -0.004 -1"><span class='ocrx_word' id='word_1_5' title='bbox 484 2818 531 2872; x_wconf 77' lang='lat' dir='ltr'><strong>dat</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 549 2817 622 2872; x_wconf 80' lang='lat' dir='ltr'>dicat</span> <span class='ocrx_word' id='word_1_7' title='bbox 639 2817 746 2873; x_wconf 80' lang='lat' dir='ltr'>dedicat</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1372 4554">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1372 4554">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1372 4554; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1372 4554; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
